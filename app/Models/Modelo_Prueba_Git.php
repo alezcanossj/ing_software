@@ -8,4 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Modelo_Prueba_Git extends Model
 {
     use HasFactory;
+    var_dump("linea de agregado de proyecto de Mirtha");
 }
